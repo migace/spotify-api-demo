@@ -1,0 +1,8 @@
+{
+    "LOCALHOST": "http://127.0.0.1",
+    "PORT": 3000,
+    "AUTHORIZATION_URL": "https://accounts.spotify.com/authorize",
+    "SCOPE": "user-read-private user-read-email",
+    "API_TOKEN_URL": "https://accounts.spotify.com/api/token",
+    "SPOTIFY_ABOUT_ME_URL": "https://api.spotify.com/v1/me"
+}
